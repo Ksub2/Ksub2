@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
   
--    I'm currently doing Internship at Nepal Electricity Authority
+- 👨‍💻 I'm currently doing Internship at Nepal Electricity Authority
 
 - 👯 I’m looking to collaborate on [Registration Login System](https://github.com/Ksub2/Registration_Login_Page)
 
