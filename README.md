@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksub2" alt="ksub2" /></a> </p>
 
-- 🔭 I’m currently working on [Weather Forecasting System](https://github.com/Ksub2/Weather_forecasting)
+- 🔭 I’m currently working on: [Weather Forecasting System](https://github.com/Ksub2/Weather_forecasting)
   
-- 👨‍💻 I'm currently doing Internship at Nepal Electricity Authority
+- 👨‍💻 I'm currently doing Internship at: Nepal Electricity Authority
 
-- 👯 I’m looking to collaborate on [Registration Login System](https://github.com/Ksub2/Registration_Login_Page)
+- 👯 I’m looking to collaborate on: [Registration Login System](https://github.com/Ksub2/Registration_Login_Page)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ksub2?tab=repositories](https://github.com/Ksub2?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Ksub2?tab=repositories](https://github.com/Ksub2?tab=repositories)
 
 - 💬 Ask me about **python,React.js**
 
