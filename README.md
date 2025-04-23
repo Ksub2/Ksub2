@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Ksub2?tab=repositories](https://github.com/Ksub2?tab=repositories)
 
-- 💬 Ask me about **python,React.js**
+- 💬 Ask me about **React.js,Tailwind-css,HTML,CSS**
 
 - 📫 How to reach me **keshabdahal008@gmail.com**
 
