@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksub2" alt="ksub2" /></a> </p>
 
-- 🔭 I’m currently working on: [Weather Forecasting System](https://github.com/Ksub2/Weather_forecasting)
+- 🔭 I’m currently Learning React Native (https://reactnative.dev)
   
 - 👨‍💻 I'm currently doing Internship at: Nepal Electricity Authority.
 
