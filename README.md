@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/keshab_krd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshab_krd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/keshab-dahal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshab-dahal2" height="30" width="40" /></a>
-<a href="https://fb.com/keshab.krd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keshab.krd" height="30" width="40" /></a>
+<a href="https://fb.com/keshab.yo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keshab.krd" height="30" width="40" /></a>
 <a href="https://instagram.com/keshab_yo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshab_yo" height="30" width="40" /></a>
 </p>
 
