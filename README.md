@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Learning React Native (https://reactnative.dev)
   
-- 👨‍💻 I've completed  Internship at: Nepal Electricity Authority.
+- 👨‍💻 Currently doing Internship at Neutrotex.
 
 - 👯 I’m looking to collaborate on: [Registration Login System](https://github.com/Ksub2/Registration_Login_Page)
 
