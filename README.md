@@ -73,9 +73,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ksub2&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksub2&theme=tokyonight&hide_border=true" width="60%" />
 </div>
-
 ---
 
 <div align="center">
