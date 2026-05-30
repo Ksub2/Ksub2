@@ -21,8 +21,8 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Bachelor's Graduate in Computer Science from Nepal
-- 🔭 Currently learning **React Native**
-- 💼 Previously interned at **Neutrotex**
+- 🔭 Currently learning **Flutter**
+- 💼 Currently intern at **Neutrotex**
 - 🌱 Exploring **GitHub Copilot** & AI-powered development
 - 👯 Open to collaborate on exciting projects
 - 💬 Ask me about **React.js, Tailwind CSS, HTML, CSS**
