@@ -66,10 +66,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksub2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksub2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksub2&theme=tokyonight&hide_border=true" width="60%" />
