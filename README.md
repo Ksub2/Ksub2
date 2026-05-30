@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Keshav Dahal 👋</h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Passionate+Flutter+Developer+%F0%9F%9A%80;React+Native+Learner+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Passionate+Flutter+Developer+%F0%9F%9A%80;Flutter+Learner+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
   </p>
 
   <p>
