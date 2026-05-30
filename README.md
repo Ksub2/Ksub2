@@ -49,8 +49,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -68,10 +67,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksub2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksub2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksub2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksub2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ksub2&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksub2&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </div>
