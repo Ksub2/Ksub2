@@ -4,16 +4,15 @@
   <h1>Hi there, I'm Keshav Dahal 👋</h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Passionate+React+Developer+%F0%9F%9A%80;React+Native+Learner+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Passionate+Flutter+Developer+%F0%9F%9A%80;React+Native+Learner+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%8C%9F;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
   </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ksub2&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ksub2" />
   </p>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ksub2&theme=algolia&no-frame=true&row=1&column=7" alt="ksub2" />
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=ksub2&theme=algolia&no-frame=true&row=1&column=7" alt="ksub2 trophies" />
+
 </div>
 
 ---
@@ -21,8 +20,8 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Bachelor's Graduate in Computer Science from Nepal
-- 🔭 Currently learning **React Native**
-- 💼 Previously interned at **Neutrotex**
+- 🔭 Currently learning **Flutter**
+- 💼 Currently intern at **Neutrotex**
 - 🌱 Exploring **GitHub Copilot** & AI-powered development
 - 👯 Open to collaborate on exciting projects
 - 💬 Ask me about **React.js, Tailwind CSS, HTML, CSS**
@@ -51,16 +50,16 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 ---
