@@ -12,7 +12,7 @@
   </p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ksub2&theme=algolia&no-frame=true&row=1" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ksub2&theme=algolia&no-frame=true&row=1&column=7" alt="ksub2" />
   </a>
 </div>
 
@@ -21,8 +21,8 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Bachelor's Graduate in Computer Science from Nepal
-- 🔭 Currently learning **Flutter**
-- 💼 Currently intern at **Neutrotex**
+- 🔭 Currently learning **React Native**
+- 💼 Previously interned at **Neutrotex**
 - 🌱 Exploring **GitHub Copilot** & AI-powered development
 - 👯 Open to collaborate on exciting projects
 - 💬 Ask me about **React.js, Tailwind CSS, HTML, CSS**
@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksub2&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksub2&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksub2&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ksub2&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
 </div>
 
 <div align="center">
