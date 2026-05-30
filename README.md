@@ -2,10 +2,10 @@
 <h3 align="center">A passionate React Developer from Nepal</h3>
 
 <p align="center">
-  <img src="./keshab.png" width="150" />
+  <img src="./keshab.png" width="200" style="border-radius: 15px;" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksub2&label=Profile%20views&color=0e75b6&style=flat" alt="ksub2" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksub2" alt="ksub2" /></a> </p>
 
 - 🔭 I’m currently Learning React Native (https://reactnative.dev)
