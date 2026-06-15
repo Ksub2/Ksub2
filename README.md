@@ -24,7 +24,7 @@
 - 💼 Currently intern at **Neutrotex**
 - 🌱 Exploring **GitHub Copilot** & AI-powered development
 - 👯 Open to collaborate on exciting projects
-- 💬 Ask me about **React.js, Tailwind CSS, HTML, CSS**
+- 💬 Ask me about **React.js, Tailwind CSS, HTML, CSS,Flutter**
 - 📫 Reach me at **keshabdahal008@gmail.com**
 
 ---
