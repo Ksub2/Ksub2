@@ -26,6 +26,7 @@
 - 👯 Open to collaborate on exciting mobile & web projects
 - 💬 Ask me about **Flutter, React.js, Tailwind CSS, HTML, CSS**
 - 📫 Reach me at **keshabdahal008@gmail.com**
+- 🏢 Currently working at **Neutrotex**
 
 ---
 
