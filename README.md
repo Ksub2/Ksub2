@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Keshab Dahal 👋</h1>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Building+Yatrax+⛰️;Open+Source+Enthusiast+⭐;Based+in+Nepal+🇳🇵;Working+at+Neutrotex+💼" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Flutter+Developer+🚀;Building+Nepscape+⛰️;Open+Source+Enthusiast+⭐;Based+in+Nepal+🇳🇵;Working+at+Neutrotex+💼" alt="Typing SVG" />
   </p>
 
   <p>
@@ -20,7 +20,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Bachelor's Graduate in Computer Science from Nepal
-- 🏔️ Building **Yatrax** — a Nepal-focused trekking & adventure platform, using Flutter with MVVM architecture
+- 🏔️ Building **Nepscape** — a Nepal-focused trekking & adventure platform, using Flutter with MVVM architecture
 - 🔭 Deepening my skills in **Flutter**, **GetIt DI**, and clean architecture patterns
 - 🌱 Exploring **AI-assisted development** with tools like Gemini and GitHub Copilot
 - 👯 Open to collaborate on exciting mobile & web projects
